@@ -1,0 +1,31 @@
+<script type="formula">
+ let acceptpercent = parseInt(college[7])*10;</script> 
+ 
+<script type="formula">document.write(acceptpercent)</script>
+
+Need to put in more data
+
+    <tr><!-- table headers only -->
+    <th>Institution Name</th>
+      <th>Rank (US News)</th>
+      <th>City, State</th>
+      <th>URL</th>
+      <th>Admissions Page for Transfer Students</th>
+      <th>Transfer Coursework Page</th>
+      <th>Graduate Outcomes/Employers</th>
+      <th>Offers Bachelor's in Comp & Info Sci & Support Services</th>
+      <th>Public,Private nonprofit, or Private for-profit</th>
+      <th>Admission Rate</th>
+      <th>Federal Financial Aid Eligible (Title IV)</th>
+      <th>Average cost of attendance</th>
+      <th>Enrollment of undergraduate certificate/degree-seeking students</th>
+      <th>Midpoint of SAT scores (critical reading)</th>
+      <th>Midpoint of SAT scores (math)</th>
+      <th>Midpoint of SAT scores (writing)</th>
+      <th>Midpoint of the ACT English score</th>
+      <th>Midpoint of the ACT Math score</th>
+      <th>Midpoint of the ACT Writing score</th>
+      <th>Total share of enrollment of undergraduate degree-seeking students who are non-resident aliens</th>
+      <th>Undergraduate degree-seeking Women</th>
+      <th>Undergraduate degree-seeking Men</th>
+

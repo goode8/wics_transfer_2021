@@ -1,0 +1,56 @@
+Schools.db
+
+CREATE TABLE "alluniversityinfo" (
+    0 "ID"    INTEGER NOT NULL UNIQUE,
+    1 "RANK"    INTEGER,
+    2 "INSTNM"    TEXT,
+    3 "CITY"    TEXT,
+    4 "STABBR"    TEXT,
+    5 "INSTURL"    TEXT,
+    6 "transfercoursesurl"    TEXT,
+    7 "maintransferadmissionpage"    TEXT,
+    8 "employers"    TEXT,
+    9 "CONTROL"    INTEGER,
+    10 "ADM_RATE"    TEXT,
+    11 "SATVRMID"    TEXT,
+    12 "SATMTMID"    TEXT,
+    13 "SATWRMID"    TEXT,
+    14 "ACTENMID"    TEXT,
+    15 "ACTMTMID"    TEXT,
+    16 "ACTWRMID"    TEXT,
+    17 "CIP11BACHL"    INTEGER,
+    18 "UGDS"    INTEGER,
+	19 "UGDS_NRA"    REAL,
+    20 "COSTT4_A"    TEXT,
+    21 "COSTT4_P"    TEXT,
+    22 "UGDS_MEN"    REAL,
+    23 "UGDS_WOMEN"    REAL,
+    24 "OPEFLAG"    INTEGER,
+    PRIMARY KEY("ID")
+);
+
+var ID = schoolrow[0];//int
+var RANK = schoolrow[1];//int
+var INSTNM = schoolrow[2];//text
+var CITY = schoolrow[3];//text
+var STABBR= schoolrow[4];//text
+var INSTURL = schoolrow[5];//text
+var transfercoursesurl = schoolrow[6];//text
+var maintransferadmissionpage = schoolrow[7];//text
+var employers = schoolrow[8];//text
+var CONTROL = schoolrow[9];//int
+var  ADM_RATE = schoolrow[10];//text
+var SATVRMID = schoolrow[11];//text
+var SATMTMID = schoolrow[12];//text
+var SATWRMID = schoolrow[13];//text
+var ACTENMID = schoolrow[14];//text
+var ACTMTMID = schoolrow[15];//text
+var ACTWRMID = schoolrow[16];//text
+var CIP11BACHL = schoolrow[17];//int
+var UGDS = schoolrow[18];//int
+var UGDS_NRA = schoolrow[19];//real
+var COSTT4_A = schoolrow[20];//text
+var COSTT4_P = schoolrow[21];//text
+var UGDS_MEN = schoolrow[22];//real
+var UGDS_WOMEN = schoolrow[23];//real
+var OPEFLAG = schoolrow[24];//int
